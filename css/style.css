@@ -1,0 +1,65 @@
+﻿.content1
+{
+float:left;
+width:31%;
+padding-left:15px;
+padding-bottom:18px;
+}
+.content2
+{
+float:left;
+width:31%;
+padding-left:15px;
+padding-bottom:18px;
+}
+.content3
+{
+float:left;
+width:31%;
+padding-left:15px;
+padding-bottom:18px;
+}
+.footer
+{
+clear:both; 
+padding-top:15px;
+padding-bottom:15px; 
+padding-left:0px;
+width:100%; 
+margin:0px auto; 
+background:#333;
+color:white;
+height:30%; 
+}
+.Services
+{
+float:left;
+}
+.Using 
+{
+width:80%;
+margin:0px auto;
+text-align:left;
+}
+.Quicklinks
+{
+width:80%;
+margin:0px auto;
+text-align:left;
+}
+.Connect
+{
+width:80%;
+margin:0px auto;
+text-align:left;
+}
+.ending
+{
+padding-top:15px;
+padding-bottom:15px;
+text-align:center; 
+width:100%; 
+margin:0px auto; 
+background:black;
+color:white;
+}
